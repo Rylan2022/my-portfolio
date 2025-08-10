@@ -13,7 +13,7 @@
         <!--==================== CSS ====================-->
         <link rel="stylesheet" href="{{ asset('css/styles.css') }}">
 
-        <title>Prashanna</title>
+        <title>Portfolio</title>
     </head>
     <body>
         <!--==================== HEADER ====================-->
